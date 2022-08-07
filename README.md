@@ -1,6 +1,6 @@
 ### Hi there, I'm Rediet! 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RedietMillion&show_icons=true&theme=merko" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RedietMillion&show_icons=true&theme=dracula" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietMillion&layout=compact&hide=javascript,html,XSLT" />
 
