@@ -8,6 +8,8 @@
 
 #### ⚡ Fact: 'Hight-Quality Work Produced = ( Time Spent ) X ( Intensity of Focus )'
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RedietMillon.visitor-badge&left_text=My%20Page%20Visitors)
+
 
 #### Programming Languages and Technologies
 
@@ -44,7 +46,6 @@
 </br>
 </br>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RedietMillon.visitor-badge&left_text=My%20Page%20Visitors)
 
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api?username=RedietMillion&show_icons=true&theme=dracula" />
 
