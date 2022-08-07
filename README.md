@@ -8,10 +8,10 @@
 
 #### ⚡ Fact: 'Hight-Quality Work Produced = ( Time Spent ) X ( Intensity of Focus )'
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RedietMillon.visitor-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RedietMillion.visitor-badge) 
 
 
-#### Programming Languages and Technologies
+### Programming Languages and Technologies
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
@@ -43,17 +43,9 @@
 
 <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-</br>
-</br>
-
-
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api?username=RedietMillion&show_icons=true&theme=dracula" />
 
 <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietMillion&layout=compact&hide=javascript,html,XSLT" />
-
-
-
-
 
   
 
