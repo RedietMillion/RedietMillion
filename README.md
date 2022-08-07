@@ -1,9 +1,14 @@
-### Hi there, I'm Rediet! 👋
+### Hi there, I'm Rediet M. 👋
+#### A passionate Software Engineer from Ethiopia.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RedietMillion&show_icons=true&theme=dracula" />
+- 🔭 I’m currently working on Machine Learning and Data Science related projects.
+- 🌱 I’m currently learning Software Engineering at ALX.
+- 💬 Ask me about Python and Java
+- 📫 How to reach me: gettorediet@gmail.com
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietMillion&layout=compact&hide=javascript,html,XSLT" />
+#### ⚡ Fact: 'Hight-Quality Work Produced = ( Time Spent ) X ( Intensity of Focus )'
 
+### Programming Languages and Technologies
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -35,6 +40,12 @@
 <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 
+#### GitHub Status
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RedietMillion&show_icons=true&theme=dracula" />
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietMillion&layout=compact&hide=javascript,html,XSLT" />
 
 
 
