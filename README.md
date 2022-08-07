@@ -8,7 +8,7 @@
 
 #### ⚡ Fact: 'Hight-Quality Work Produced = ( Time Spent ) X ( Intensity of Focus )'
 
-### Programming Languages and Technologies
+#### Programming Languages and Technologies
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -39,13 +39,13 @@
 
 <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
+</br>
 
-#### GitHub Status
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RedietMillon.visitor-badge&left_text=My%20Page%20Visitors)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RedietMillion&show_icons=true&theme=dracula" />
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api?username=RedietMillion&show_icons=true&theme=dracula" />
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietMillion&layout=compact&hide=javascript,html,XSLT" />
+<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietMillion&layout=compact&hide=javascript,html,XSLT" />
 
 
 
