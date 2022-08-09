@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Software Engineering at ALX.
 - 💬 Ask me about Python and Java
 - 📫 How to reach me: gettorediet@gmail.com
-
+- ##### ⚡ Qoutes:  "Enlightened approach to a problem makes the problem enlightening"
 #### ⚡ Fact: 'Hight-Quality Work Produced = ( Time Spent ) X ( Intensity of Focus )'
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RedietMillion.visitor-badge) 
