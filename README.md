@@ -1,5 +1,5 @@
 ### Hi there, I'm Rediet M. 👋
-#### A passionate Software Engineer from Ethiopia.
+#### A passionate Machine Learning Engineer from Ethiopia.
 
 - 🔭 I’m currently working on Machine Learning and Data Science related projects.
 - 🌱 I’m currently learning Software Engineering at ALX.
