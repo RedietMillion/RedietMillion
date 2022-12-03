@@ -1,8 +1,8 @@
 ### Hi there, I'm Rediet M. 👋
 #### A passionate Machine Learning Engineer from Ethiopia.
 
-- 🔭 I’m currently working on Machine Learning and Data Science related projects.
-- 🌱 I’m currently learning Software Engineering at ALX.
+- 🔭 I’m currently working on Data Science, AI/ML/DL and Data Analytics related projects.
+- 🌱AWS AI and ML Scholarship 2022 Recipient 
 - 💬 Ask me about Python and Java
 - 📫 How to reach me: gettorediet@gmail.com
 - ##### ⚡ Qoutes:  "Enlightened approach to a problem makes the problem enlightening"
