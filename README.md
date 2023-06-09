@@ -2,7 +2,7 @@
 #### A passionate Data Science Expert from Ethiopia.
 
 - 🔭 I’m currently working on Data Science, AI/ML/DL and Data Analytics related projects.
-- 🌱AWS AI and ML Scholarship 2022 Recipient 
+- 🌱AWS AI and ML Scholarship 2022 & 2023 Recipient 
 - 💬 Ask me about $MC^2$ :-) 
 - 📫 How to reach me: gettorediet@gmail.com
 - ##### ⚡ Qoutes:  "Enlightened approach to a problem makes the problem enlightening"
