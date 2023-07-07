@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Data Science, AI/ML/DL and Data Analytics related projects.
 - 🌱AWS AI and ML Scholarship 2022 & 2023 Recipient 
-- 💬 Ask me about $MC^2$ :-) 
+- 💬 Ask me AI & Signal Processing
 - 📫 How to reach me: gettorediet@gmail.com
 - ##### ⚡ Qoutes:  "Enlightened approach to a problem makes the problem enlightening"
 #### ⚡ Fact: 'Hight-Quality Work Produced = ( Time Spent ) X ( Intensity of Focus )'
