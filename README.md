@@ -46,7 +46,7 @@
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietMillion&layout=compact&hide=javascript,html,XSLT" />
 
-<img  width="45%" src="https://github-readme-stats.vercel.app/api?username=RedietMillion&show_icons=true&theme=dracula" />
+
 
 
 
