@@ -43,9 +43,7 @@
 
 <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> </br>
 </br>
-
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietMillion&layout=compact&hide=javascript,html,XSLT" />
-
+<img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedietMillion&layout=compact&hide=javascript,html,XSLT" />
 
 
 
