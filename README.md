@@ -1,5 +1,5 @@
 ### Hi there, I'm Rediet M. 👋
-#### A passionate Data Science Expert from Ethiopia.
+#### A passionate Data Science/ML Expert from Ethiopia.
 
 - 🔭 I’m currently working on Data Science, AI/ML/DL and Data Analytics related projects.
 - 🌱AWS AI and ML Scholarship 2022 & 2023 Recipient 
